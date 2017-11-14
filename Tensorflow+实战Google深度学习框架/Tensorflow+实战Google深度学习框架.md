@@ -38,5 +38,5 @@
     - py_binary：将 Python 程序编译为可执行文件
     - py_library：将Python程序编译成库函数供其他py_binary 或 py_test 调用
     - py_test：编译 Python 测试程序
-- [Bazel 工作方式]()
+- [Bazel 工作方式](https://github.com/yyxyz/Book/blob/master/Tensorflow%2B%E5%AE%9E%E6%88%98Google%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6/resource/Bazel-%E5%B7%A5%E4%BD%9C%E6%96%B9%E5%BC%8F.png)
 
